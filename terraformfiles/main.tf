@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
-  name     = "ayushi-rg-cicd-ntms-workshop"
+  name     = "mandar-rg-cicd-ntms-workshop"
   location = "East US"
 }
 
